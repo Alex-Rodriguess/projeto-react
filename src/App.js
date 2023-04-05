@@ -20,11 +20,7 @@ function App() {
             <p>Sejam bem vindos ao meu portifólio,  fique à vontade para visualizar os meus projetos.
                  No final da página se quiser me mandar uma mensagem, 
                  ficarei grato!</p>
-        </div>
-        <div className="home-img">
-          
-        </div> 
-          
+        </div>          
     </div>
   );
 }
